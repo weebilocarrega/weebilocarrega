@@ -17,7 +17,7 @@ e muitas outras!
 
 - Estudante da ETEC Dr. Domingos Minicucci Filho, Desenvolvimento de Sistemas (2/3);
 - Programador Web (utilizo <strong>Wordpress com Elementor</strong>);
-- Aspirante a <strong>desenvolvedor de jogos</strong>, faço jogos com Pygame e Roblox Studio!
+- Aspirante a <strong>desenvolvedor de jogos</strong>, faço jogos com Godot, Pygame e Roblox Studio!
 
 <hr>
 
