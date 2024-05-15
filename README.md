@@ -22,5 +22,6 @@ e muitas outras!
 <hr>
 
 Meu perfil do Roblox, onde pode encontrar alguns jogos meus: https://www.roblox.com/users/221920820/profile
+Meu <b>portfólio completo</b> com todas as minhas criações e jogos: https://discord.com/invite/sARbWxeTJ6
 
 É isso. Conforme o tempo vou colocar mais dados aqui. <strong>Adeus!</strong>
