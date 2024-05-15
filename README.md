@@ -22,7 +22,7 @@ And many more!
 
 <hr>
 
-My Roblox profille, where you can find some of my games and groups: https://www.roblox.com/users/221920820/profile
+My Roblox profille, where you can find some of my games and groups: https://www.roblox.com/users/221920820/profile<br>
 <b>Complete Portfolio</b> with almost everything I made: https://discord.com/invite/sARbWxeTJ6
 
 This is it <b>for now</b>. Goodbye!
