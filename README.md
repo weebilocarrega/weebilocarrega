@@ -1,27 +1,28 @@
-<h1>Olá, eu sou o <strong>Bilo!</strong></h1>
+<h1>Hello, I am <b>Bilo!</b></h1>
 
-<h3>Sou um programador iniciante e quero mostrar meus trabalhos aqui no GitHub.</h3>
+<h3>I'm a begginner and I want to show my work here in GitHub.</h3>
 
-Trabalho com:
+I work with:
+- Java;
 - Python;
-- Luau;
+- Lua;
 - Javascript;
 - PHP;
 - Portugol;
 
-e muitas outras!
+And many more!
 
 <hr>
 
-<h3>Portfolio curto:</h3>
+<h3>Short Portfolio:</h3>
 
-- Estudante da ETEC Dr. Domingos Minicucci Filho, Desenvolvimento de Sistemas (2/3);
-- Programador Web (utilizo <strong>Wordpress com Elementor</strong>);
-- Aspirante a <strong>desenvolvedor de jogos</strong>, faço jogos com Godot, Pygame e Roblox Studio!
+- Student of ETEC (Brazil), coursing Systems Development (2/3 years);
+- Web Programmer (I use <b>Wordpress with Elementor and Svelte</b>);
+- Game developer, mainly make games with Godot, Pygame and Roblox Studio!
 
 <hr>
 
-Meu perfil do Roblox, onde pode encontrar alguns jogos meus: https://www.roblox.com/users/221920820/profile
-Meu <b>portfólio completo</b> com todas as minhas criações e jogos: https://discord.com/invite/sARbWxeTJ6
+My Roblox profille, where you can find some of my games and groups: https://www.roblox.com/users/221920820/profile
+<b>Complete Portfolio</b> with almost everything I made: https://discord.com/invite/sARbWxeTJ6
 
-É isso. Conforme o tempo vou colocar mais dados aqui. <strong>Adeus!</strong>
+This is it <b>for now</b>. Goodbye!
